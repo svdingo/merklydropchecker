@@ -2,6 +2,7 @@ import os
 from collections import defaultdict
 
 # Путь к директории и файлу adresses.txt
+# Путь к директории и файлу adresses.txt
 current_directory = os.path.dirname(os.path.abspath(__file__))
 addresses_file_path = os.path.join(current_directory, 'adresses.txt')
 
